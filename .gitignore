@@ -1,0 +1,13 @@
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Local secrets and logs
+.env
+.env.*
+*.log
+
+# Dependencies and packaged copies
+node_modules/
+*.zip
